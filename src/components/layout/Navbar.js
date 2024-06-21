@@ -18,7 +18,7 @@ return(
         <Link to="/company">Empresa</Link>
         </li>
     <li className={styles.item}>
-        <Link to="/newproject">Projeto</Link>
+        <Link to="/projects">Projeto</Link>
         </li>  
     <li className={styles.item}>
         <Link to="/contact">Contato</Link>
